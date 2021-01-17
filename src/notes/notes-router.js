@@ -1,6 +1,6 @@
 const express = require("express");
 const NotesService = require("./notes-service");
-const path = require("path");
+
 const xss = require("xss");
 
 const notesRouter = express.Router();
