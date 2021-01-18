@@ -2,5 +2,5 @@ module.exports = {
   PORT: 8000,
   NODE_ENV: "development",
   DATABASE_URL:
-    'postgres://hydervkufzddbn:508bb3df8695a81ebd11b3918c3868e9747e05eeee0cad80885376adc2153da4@ec2-52-22-135-159.compute-1.amazonaws.com:5432/d54hbetl514b61',
+    'postgres://jfwszhlzxgvsgj:0c7f6f6939a6530c6091c3733e38f55c9da46fee9221517da27c12af2dd782d5@ec2-18-232-143-90.compute-1.amazonaws.com:5432/d21f2bqukmvnr0',
 };
